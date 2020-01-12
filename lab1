@@ -1,6 +1,6 @@
 <html>
-< заголовок > > < заголовок > это заголовок>< / title> > < / header>
-< тело>
-Привет мир
-< / body>
-< / html>
+<header><title>This is title</title></header>
+<body>
+Hello world
+</body>
+</html>
